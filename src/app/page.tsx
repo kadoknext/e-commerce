@@ -1,8 +1,8 @@
 export default function Home() {
   return (
-    <main>
+    <div>
       <h1>Next e-commerce 15</h1>
-    </main>
+    </div>
   
   );
 }
